@@ -1,6 +1,12 @@
 # Descentralized-Venture-Protocol
 
-There is low developemnt
+
+![](https://i.ibb.co/MRnR3P3/Screenshot-2023-05-31-at-14-26-11.png)
+
+There is low development in libraries 
+
+Just a lot the same vector -> venture to your bank account + (excel) + dashboard with statistics and graphs
+
 
 Finance:
 
