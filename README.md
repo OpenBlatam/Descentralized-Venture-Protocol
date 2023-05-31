@@ -24,6 +24,8 @@ https://github.com/decent-dao/fractal-contracts/tree/develop
 https://dao.vc/
 
 
+# References
 
+https://triniti.eu/wp-content/uploads/2019/05/Venture-Capital-Dictionary_powered-by-TRINITI-6.pdf
 
 
