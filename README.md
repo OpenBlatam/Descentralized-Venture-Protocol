@@ -25,6 +25,11 @@ SMART CONTRACS
 
 https://github.com/decent-dao/fractal-contracts/tree/develop
 
+
+# Session of AI 
+
+https://chat.openai.com/c/79594a52-4bba-47fc-a7d2-7ac6752cec3e
+
 # References MVP
 
 https://dao.vc/
