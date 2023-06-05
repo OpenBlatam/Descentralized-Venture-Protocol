@@ -7,6 +7,8 @@ There is low development in libraries
 
 Just a lot the same vector -> venture to your bank account + (excel) + dashboard with statistics and graphs
 
+Uniswap make a factory of x uniswap logics like swap
+Aave make a configuration of factory of x borrow and lend
 
 Finance:
 

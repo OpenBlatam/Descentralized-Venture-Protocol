@@ -1,4 +1,6 @@
-he library provides various functions to set and get different properties of the reserve configuration. These functions include:
+# Logic Actions
+
+The library provides various functions to set and get different properties of the reserve configuration. These functions include:
 
 setLtv: Sets the Loan-to-Value (LTV) ratio of the reserve.
 getLtv: Gets the LTV ratio of the reserve.
