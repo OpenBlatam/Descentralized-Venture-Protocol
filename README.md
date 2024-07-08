@@ -1,6 +1,5 @@
 # Descentralized-Venture-Protocol
 
-
 ![](https://i.ibb.co/MRnR3P3/Screenshot-2023-05-31-at-14-26-11.png)
 
 There is low development in libraries 
